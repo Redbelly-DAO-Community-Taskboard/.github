@@ -34,14 +34,14 @@ This organisation hosts all deliverables produced through the DAO Community Task
 5. Open a Pull Request in the appropriate category repo using the provided template
 6. A reviewer will be assigned within 48 hours
 
-**Questions?** Post in `#taskboard-updates` on Discord or mention `@njay`.
+**Questions?** Post in `#DAO COMMUNITY TASK BOARD` on Discord or mention `@njay`.
 
 ---
 
 ## Links
 
 - [DAO Website](https://dao.redbelly.network/dashboard/)
-- [Task Board Proposal](#)
+- [Task Board Proposal](https://github.com/Redbelly-DAO-Community-Taskboard/.github/blob/main/REVISED_TaskBoard_FINAL.pdf)
 - [Public Transparency Ledger](https://docs.google.com/spreadsheets/d/1B4F_pk9EPq_8Lcbm9v1tVunSUPSckLeQnjBPfU-84Go/edit?usp=sharing)
 - [Task Nomination Form](https://forms.gle/DvUCHqnja2UihFyv6)
 - [Redbelly Technical Documentation](https://docs.redbelly.network)
